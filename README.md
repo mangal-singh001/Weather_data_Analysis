@@ -55,3 +55,13 @@ The dataset includes weather-related observations such as:
    ```bash
    git clone https://github.com/mangal-singh001/Weather_data_Analysis.git
    cd Weather_data_Analysis
+
+🙋‍♂️ Connect With Me
+
+
+🔗 https://www.linkedin.com/in/mangal-singh123/
+
+💻 https://github.com/mangal-singh001
+
+
+
